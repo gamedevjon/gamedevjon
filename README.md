@@ -5,9 +5,11 @@ I’m an **Engineering Leader, Educator, and Founder** with deep expertise in **
 Currently serving as **Dean of the School of Engineering at TMU**, I’ve built innovative programs in **AI, game development, and cybersecurity** while also launching successful ventures like **GameDevHQ**, a global training platform for developers.  
 
 I thrive at the intersection of **education, engineering leadership, and high-performance computing**, with a strong focus on:
-- Building **low-latency systems** for finance & trading  
-- Architecting scalable **AI-driven platforms**  
+- Building **low-latency systems** for finance & graphics applications  
+- Architecting scalable **AI-driven platforms** (With the help of claude) 
 - Leading and mentoring engineering teams  
+- Building and designing video games!
+- Specialize in C/C++/C# 
 
 ---
 
